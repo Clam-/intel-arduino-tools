@@ -6,6 +6,6 @@
   "system": ["darwin_arm64"],
   "repository": {
     "type": "git",
-    "url": "https://github.com/arduino/arduino101load"
+    "url": "https://github.com/Clam-/arduino101load"
   }
 }
