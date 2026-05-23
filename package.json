@@ -1,0 +1,11 @@
+{
+  "name": "tool-arduino101load",
+  "version": "2.201.0",
+  "description": "Genuino101 uploader tool (Apple Silicon native)",
+  "keywords": ["tools", "uploader"],
+  "system": ["darwin_arm64"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arduino/arduino101load"
+  }
+}
